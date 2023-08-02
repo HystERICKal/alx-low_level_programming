@@ -12,5 +12,7 @@ int true_sqrt_recursion(int n, int x);
 int is_prime_number(int n);
 int optimus_prime(int n, int x);
 int is_palindrome(char *s);
+int palindrome_detector(char *s, int x, int los);
+int length_of_string_calculator(char *s);
 int wildcmp(char *s1, char *s2);
 #endif
