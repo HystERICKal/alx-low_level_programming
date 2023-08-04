@@ -3,7 +3,7 @@
 #define UNUSED(x) (void)(x)
 
 int _putchar(char c);
-int _atoi(char *s);
+int str_to_int(char *s);
 
 #endif
 
