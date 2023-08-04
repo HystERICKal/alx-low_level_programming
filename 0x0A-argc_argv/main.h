@@ -4,6 +4,7 @@
 
 int _putchar(char c);
 int str_to_int(char *s);
+int check_num(char *nums);
 
 #endif
 
