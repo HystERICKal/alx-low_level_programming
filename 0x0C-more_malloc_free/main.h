@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+#define ERR_MSG "Error"
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
