@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""Island perimeter"""
+
+
 def island_perimeter(grid):
     """Returns island perimeter"""
     kando_kando = 0
